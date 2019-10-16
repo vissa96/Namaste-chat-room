@@ -7,4 +7,4 @@ This is a chat room built specifically for job interviews between an interviewer
 4) Run Client.java
 5) Nameste!
 # Side note
-This is the development project of Prashant Vissa
+This is a Java development project of Prashant Vissa
